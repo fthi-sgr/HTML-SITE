@@ -1,0 +1,356 @@
+                body {
+                    font-family: 'Lato', sans-serif;
+                }
+                
+                .e-box {
+                    width: 300px;
+                    height: auto;
+                    background-color: white;
+                    border-radius: 2%;
+                    margin-left: 680px;
+                    margin-top: 0px;
+                }
+                
+                .esnekKutuKapsul2 {
+                    display: flex;
+                    width: 107%;
+                    background: #f7f4f4;
+                    padding: 20px;
+                    font-family: arial;
+                }
+                
+                .babe {
+                    margin-top: auto;
+                    margin-left: 60px;
+                }
+                
+                .facebutton {
+                    background-color: #37639e;
+                    color: white;
+                    border-color: #37639e;
+                    width: 60%;
+                    height: 40px;
+                    margin-left: 60px;
+                    margin-top: 10px;
+                }
+                
+                .stil {
+                    margin-left: 330px
+                }
+                
+                .bosluk {
+                    padding-top: 15px;
+                }
+                
+                .image {
+                    margin-left: 330px;
+                }
+                
+                .imageboyut {
+                    width: 310px;
+                    height: auto;
+                    margin-left: -13px;
+                }
+                
+                .mts {
+                    width: 310px;
+                    height: 460px;
+                }
+                
+                .barload {
+                    background-image: linear-gradient(to right, yellow, red);
+                    background-color: #dbd9db;
+                    margin-left: -13px;
+                    width: 75%;
+                }
+                
+                .barload2 {
+                    background-image: linear-gradient(to right, yellow, red);
+                    background-color: #dbd9db;
+                    margin-left: -13px;
+                    width: 98%;
+                }
+                
+                .barload3 {
+                    background-image: linear-gradient(to right, yellow, red);
+                    background-color: #dbd9db;
+                    margin-left: -13px;
+                    width: 90%;
+                }
+                
+                .barload4 {
+                    background-image: linear-gradient(to right, yellow, red);
+                    background-color: #dbd9db;
+                    margin-left: -13px;
+                    width: 100%;
+                }
+                
+                .barload5 {
+                    background-image: linear-gradient(to right, yellow, red);
+                    background-color: #dbd9db;
+                    margin-left: -13px;
+                    width: 65%;
+                }
+                
+                .barload6 {
+                    background-image: linear-gradient(to right, yellow, red);
+                    background-color: #dbd9db;
+                    margin-left: -13px;
+                    width: 95%;
+                }
+                
+                .barload7 {
+                    background-image: linear-gradient(to right, yellow, red);
+                    background-color: #dbd9db;
+                    margin-left: -13px;
+                    width: 85%;
+                }
+                
+                .barload8 {
+                    background-image: linear-gradient(to right, yellow, red);
+                    background-color: #dbd9db;
+                    margin-left: -13px;
+                    width: 65%;
+                }
+                
+                .barload9 {
+                    background-image: linear-gradient(to right, yellow, red);
+                    background-color: #dbd9db;
+                    margin-left: -13px;
+                    width: 70%;
+                }
+                
+                .textcenter {
+                    margin-left: auto;
+                    margin-right: auto;
+                    width: 90%;
+                }
+                
+                .right {
+                    float: right;
+                    width: 1200px;
+                }
+                
+                .cizgi {
+                    width: 800px;
+                }
+                
+                .link {
+                    color: #ec2222;
+                    text-decoration: underline;
+                    cursor: pointer;
+                }
+                
+                .solaKaydır {
+                    left: 500px;
+                }
+                
+                .textcenterr {
+                    width: 400px;
+                }
+                
+                .boyut {
+                    width: 550px;
+                    height: auto;
+                }
+                
+                .kutu {
+                    width: 650px;
+                    height: 150px;
+                    background-color: #f6f4f6;
+                    border-radius: 0%;
+                }
+                
+                .kutu2 {
+                    width: 650px;
+                    height: 335px;
+                    background-color: white;
+                    border-radius: 0%;
+                    margin-left: 0px;
+                }
+                
+                .resim {
+                    margin-top: auto;
+                }
+                
+                .flag {
+                    margin-top: auto;
+                }
+                
+                .flag2 {
+                    margin-top: auto;
+                    margin-right: auto;
+                }
+                
+                .adsız {
+                    margin-top: 10px;
+                }
+                
+                image {
+                    display: block;
+                    max-width: 100%;
+                    height: auto;
+                }
+                
+                .arrange {
+                    display: table;
+                    min-width: 100%;
+                    table-layout: auto;
+                    padding: 0;
+                    margin: 0;
+                }
+                
+                .arrange-fill {
+                    display: table-cell;
+                    vertical-align: top;
+                    padding: 0;
+                }
+                
+                .tıkla {
+                    background-color: #fff;
+                    color: black;
+                    width: 110%;
+                    height: 30px;
+                    margin-left: -31px;
+                    margin-top: 22px;
+                }
+                
+                .box {
+                    width: 650px;
+                    height: 280px;
+                    background-color: white;
+                    border-radius: 2%;
+                    border: 1px solid #dbd9db;
+                }
+                
+                .tıkla-2 {
+                    background-color: #fff;
+                    color: black;
+                    width: 118%;
+                    height: 40px;
+                    margin-left: 0px;
+                }
+                
+                .box2 {
+                    width: 650px;
+                    height: 120px;
+                    background-color: white;
+                    border-radius: 2%;
+                    border: 1px;
+                }
+                
+                .stil2 {
+                    margin-top: 15px;
+                }
+                
+                .boyut2 {
+                    width: 900px;
+                    height: auto;
+                }
+                /*->Footer<-*/
+                
+                .yazi {
+                    text-decoration-color: black;
+                    cursor: pointer;
+                    color: inherit;
+                    text-decoration: none;
+                }
+                
+                footer {
+                    color: black;
+                    background-attachment: fixed;
+                    background-color: #f7f4f4;
+                    background-size: cover;
+                    background-position: bottom;
+                }
+                
+                .contboyut {
+                    width: 400px;
+                    height: 450px;
+                }
+                
+                .card {
+                    margin-bottom: 20px;
+                    height: 460px;
+                }
+                
+                .col-sm-3 {
+                    width: 33.33333333%;
+                }
+                
+                .col-xs-12 {
+                    width: 310px;
+                }
+                
+                .phxs {
+                    padding-left: 10px !important;
+                    padding-right: 10px !important;
+                }
+                
+                .mvs {
+                    margin-top: 15px !important;
+                    margin-bottom: 15px !important;
+                }
+                
+                .container {
+                    width: 1000px;
+                }
+                
+                .imzabut {
+                    background-color: #fff;
+                    color: black;
+                    width: 100%;
+                    height: 33px;
+                    margin-left: -1px;
+                    margin-top: 10px;
+                }
+                /*Style*/
+                
+                a {
+                    text-decoration: none;
+                    color: black;
+                }
+                
+                a:hover {
+                    color: red;
+                    text-decoration: black;
+                }
+                
+                .f {
+                    color: red;
+                    text-decoration: underline;
+                }
+                
+                .f:hover {
+                    color: black;
+                }
+                
+                .s {
+                    text-decoration: underline;
+                }
+                
+                .s:hover {
+                    text-decoration: underline;
+                }
+                
+                .esnekKutuKapsul {
+                    display: flex;
+                    width: 107%;
+                    background: #f7f4f4;
+                    padding: 20px;
+                    font-family: arial;
+                }
+                
+                .dil {
+                    display: block;
+                    width: 100%;
+                    border: 1px solid rgb(219, 217, 219);
+                    border-radius: 5px;
+                    line-height: normal;
+                    color: rgb(54, 49, 53);
+                    height: 2.5rem;
+                    padding: 0px 10px;
+                    appearance: menulist;
+                    font-size: 1rem;
+                    margin-left: 80px;
+                }
